@@ -3,8 +3,6 @@
 
 Interacting with the Star Wars API
 
-![swlogo](/swlogo.png)
-
 Do you want to have a Star Wars Database inside a Docker Postgres Container in your computer?
 Then look no further!
 -------------------
